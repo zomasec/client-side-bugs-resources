@@ -1,7 +1,7 @@
 # JS & Client-Side Resources
 
 ## JS Analysis
-
+-  [Fady Othman | How to analysis and deal with browser and DEV Tools](https://www.youtube.com/watch?v=nLMs1aXdkgk&list=PLcCG2wDOBXAWGn-_ZAWUfvwu_RkBtNxPt)
 1. [JavaScript Analysis for Pentesters](https://kpwn.de/2023/05/javascript-analysis-for-pentesters/)
 2. [JavaScript for Bug Bounty Hunters - Part 1](https://bitthebyte.medium.com/javascript-for-bug-bounty-hunters-part-1-dd08ed34b5a8)
 3. [JavaScript for Bug Bounty Hunters - Part 2](https://bitthebyte.medium.com/javascript-for-bug-bounty-hunters-part-2-f82164917e7)
