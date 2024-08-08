@@ -33,15 +33,15 @@
 ## Series
 
 1. [JavaScript Analysis Series on YouTube](https://www.youtube.com/playlist?list=PLlfDtLAF5S2RQtfb5eaxMxcfdOeswVVk2)
-2. [XSS and CSP Bypass Series on YouTube](https://www.youtube.com/watch?v=fNhRaRSyADc&list=PLK-sc48BJ4hh5nnKqfVpLr80gVUYeUB1y&index=4)
+2. [Browser Security Series on YouTube](https://www.youtube.com/watch?v=fNhRaRSyADc&list=PLK-sc48BJ4hh5nnKqfVpLr80gVUYeUB1y&index=4)
    - [Part 2](https://www.youtube.com/watch?v=oNG2oqhHNqI&list=PLK-sc48BJ4hh5nnKqfVpLr80gVUYeUB1y&index=5&pp=iAQB)
    - [Part 3](https://www.youtube.com/watch?v=iUYkImnCcqw&list=PLK-sc48BJ4hh5nnKqfVpLr80gVUYeUB1y&index=4&pp=iAQB)
-3. [JS Analysis Live Series on Facebook](https://www.facebook.com/share/p/yDzfW1vDmPz4WhHu/)
+3. [JS Analysis Live Series on Youtube](https://www.facebook.com/share/p/yDzfW1vDmPz4WhHu/)
 
 ## Blogs
 
 - [Beyond XSS Blog](https://aszx87410.github.io/beyond-xss/en/) (Excellent client-side focus)
-- [Ysam's Blog](https://ysamm.com/)
+- [Yousef Samouda's Blog](https://ysamm.com/)
 - [J Lajara's Blog](https://jlajara.gitlab.io/) (Focus on client-side bugs, especially [PostMessage](https://jlajara.gitlab.io/Dom_XSS_PostMessage) and [PostMessage 2](https://jlajara.gitlab.io/Dom_XSS_PostMessage_2))
 
 ## CSP Resources
