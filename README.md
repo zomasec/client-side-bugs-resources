@@ -51,6 +51,12 @@
 - [CSP and Bypasses](https://www.cobalt.io/blog/csp-and-bypasses)
 - [CSP Bypass Guidelines](https://brutelogic.com.br/blog/csp-bypass-guidelines/)
 
+## Prottype Pollution
+
+- [Portswigger](https://portswigger.net/web-security/prototype-pollution)
+- [Imperva | Prototype Pollution](https://www.imperva.com/learn/application-security/prototype-pollution/)
+- [Prototype Pollution — A Deeper Inspection | Amit Nigam ](https://medium.com/@king.amit95/prototype-pollution-a-deeper-inspection-82a226796966)
+
 ## Learning Resources
 
 1. [The Tangled Web Book (Mandatory)](https://github.com/akr3ch/BugBountyBooks/blob/main/The%20tangled%20Web_%20a%20guide%20to%20securing%20modern%20Web%20applications%20(%20PDFDrive%20).pdf)
