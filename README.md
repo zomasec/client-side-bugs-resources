@@ -1,7 +1,6 @@
 # JS & Client-Side Resources
 
 ## JS Analysis
--  [Fady Othman | How to analysis and deal with browser and DEV Tools](https://www.youtube.com/watch?v=nLMs1aXdkgk&list=PLcCG2wDOBXAWGn-_ZAWUfvwu_RkBtNxPt)
 1. [JavaScript Analysis for Pentesters](https://kpwn.de/2023/05/javascript-analysis-for-pentesters/)
 2. [JavaScript for Bug Bounty Hunters - Part 1](https://bitthebyte.medium.com/javascript-for-bug-bounty-hunters-part-1-dd08ed34b5a8)
 3. [JavaScript for Bug Bounty Hunters - Part 2](https://bitthebyte.medium.com/javascript-for-bug-bounty-hunters-part-2-f82164917e7)
@@ -31,12 +30,12 @@
 - [XSS Challenges on blogged-on.de](http://blogged-on.de/xss/)
 
 ## Series
-
-1. [JavaScript Analysis Series on YouTube](https://www.youtube.com/playlist?list=PLlfDtLAF5S2RQtfb5eaxMxcfdOeswVVk2)
-2. [Browser Security Series on YouTube](https://www.youtube.com/watch?v=fNhRaRSyADc&list=PLK-sc48BJ4hh5nnKqfVpLr80gVUYeUB1y&index=4)
+1. -  [Fady Othman | How to analysis and deal with browser and DEV Tools](https://www.youtube.com/watch?v=nLMs1aXdkgk&list=PLcCG2wDOBXAWGn-_ZAWUfvwu_RkBtNxPt)
+2. [JavaScript Analysis Series on YouTube](https://www.youtube.com/playlist?list=PLlfDtLAF5S2RQtfb5eaxMxcfdOeswVVk2)
+3. [Browser Security Series on YouTube](https://www.youtube.com/watch?v=fNhRaRSyADc&list=PLK-sc48BJ4hh5nnKqfVpLr80gVUYeUB1y&index=4)
    - [Part 2](https://www.youtube.com/watch?v=oNG2oqhHNqI&list=PLK-sc48BJ4hh5nnKqfVpLr80gVUYeUB1y&index=5&pp=iAQB)
    - [Part 3](https://www.youtube.com/watch?v=iUYkImnCcqw&list=PLK-sc48BJ4hh5nnKqfVpLr80gVUYeUB1y&index=4&pp=iAQB)
-3. [JS Analysis Live Series on Youtube](https://www.facebook.com/share/p/yDzfW1vDmPz4WhHu/)
+4. [JS Analysis Live Recon Series on Youtube](https://www.facebook.com/share/p/yDzfW1vDmPz4WhHu/)
 
 ## Blogs
 
