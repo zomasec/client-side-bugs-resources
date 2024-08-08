@@ -30,7 +30,7 @@
 - [XSS Challenges on blogged-on.de](http://blogged-on.de/xss/)
 
 ## Series
-1. -  [Fady Othman | How to analysis and deal with browser and DEV Tools](https://www.youtube.com/watch?v=nLMs1aXdkgk&list=PLcCG2wDOBXAWGn-_ZAWUfvwu_RkBtNxPt)
+1. [Fady Othman | How to analysis and deal with browser and DEV Tools](https://www.youtube.com/watch?v=nLMs1aXdkgk&list=PLcCG2wDOBXAWGn-_ZAWUfvwu_RkBtNxPt)
 2. [JavaScript Analysis Series on YouTube](https://www.youtube.com/playlist?list=PLlfDtLAF5S2RQtfb5eaxMxcfdOeswVVk2)
 3. [Browser Security Series on YouTube](https://www.youtube.com/watch?v=fNhRaRSyADc&list=PLK-sc48BJ4hh5nnKqfVpLr80gVUYeUB1y&index=4)
    - [Part 2](https://www.youtube.com/watch?v=oNG2oqhHNqI&list=PLK-sc48BJ4hh5nnKqfVpLr80gVUYeUB1y&index=5&pp=iAQB)
