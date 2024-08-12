@@ -56,6 +56,8 @@
 - [Imperva | Prototype Pollution](https://www.imperva.com/learn/application-security/prototype-pollution/)
 - [Prototype Pollution — A Deeper Inspection | Amit Nigam ](https://medium.com/@king.amit95/prototype-pollution-a-deeper-inspection-82a226796966)
 
+## Internals
+1. [IFrame and cross-domain security](https://pipwerks.com/2008/11/30/iframes-and-cross-domain-security-part-2/)
 ## Learning Resources
 
 1. [The Tangled Web Book (Mandatory)](https://github.com/akr3ch/BugBountyBooks/blob/main/The%20tangled%20Web_%20a%20guide%20to%20securing%20modern%20Web%20applications%20(%20PDFDrive%20).pdf)
