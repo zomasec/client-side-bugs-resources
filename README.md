@@ -42,6 +42,7 @@
 - [Beyond XSS Blog](https://aszx87410.github.io/beyond-xss/en/) (Excellent client-side focus)
 - [Yousef Samouda's Blog](https://ysamm.com/)
 - [J Lajara's Blog](https://jlajara.gitlab.io/) (Focus on client-side bugs, especially [PostMessage](https://jlajara.gitlab.io/Dom_XSS_PostMessage) and [PostMessage 2](https://jlajara.gitlab.io/Dom_XSS_PostMessage_2))
+- [Understanding the PostMessage Vulnerabilities and its implications](https://payatu.com/blog/postmessage-vulnerabilities/)
 
 ## CSP Resources
 
