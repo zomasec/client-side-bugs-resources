@@ -44,6 +44,8 @@
 - [Yousef Samouda's Blog](https://ysamm.com/)
 - [J Lajara's Blog](https://jlajara.gitlab.io/) (Focus on client-side bugs, especially [PostMessage](https://jlajara.gitlab.io/Dom_XSS_PostMessage) and [PostMessage 2](https://jlajara.gitlab.io/Dom_XSS_PostMessage_2))
 - [Understanding the PostMessage Vulnerabilities and its implications](https://payatu.com/blog/postmessage-vulnerabilities/)
+- [Dompurify Bypass v2.0.17](https://research.securitum.com/mutation-xss-via-mathml-mutation-dompurify-2-0-17-bypass/)
+- [Dompurify Bypass again](https://portswigger.net/research/bypassing-dompurify-again-with-mutation-xss)
 
 ## CSP Resources
 
@@ -60,6 +62,7 @@
 
 ## Internals
 1. [IFrame and cross-domain security](https://pipwerks.com/2008/11/30/iframes-and-cross-domain-security-part-2/)
+
 ## Learning Resources
 
 1. [The Tangled Web Book (Mandatory)](https://github.com/akr3ch/BugBountyBooks/blob/main/The%20tangled%20Web_%20a%20guide%20to%20securing%20modern%20Web%20applications%20(%20PDFDrive%20).pdf)
