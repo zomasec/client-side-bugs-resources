@@ -28,6 +28,7 @@
 - [XSS Challenges on Tunelko Blog](https://blogs.tunelko.com/2013/12/02/xss-challenges/)
 - [XSS Challenges on sudo.co.il](http://sudo.co.il/xss/)
 - [XSS Challenges on blogged-on.de](http://blogged-on.de/xss/)
+- [xss pwn](https://xss.pwnfunction.com/challenges/)
 
 ## Series
 1. [Fady Othman | How to analysis and deal with browser and DEV Tools](https://www.youtube.com/watch?v=nLMs1aXdkgk&list=PLcCG2wDOBXAWGn-_ZAWUfvwu_RkBtNxPt)
