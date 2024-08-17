@@ -70,6 +70,10 @@
 3. Learn BOM and DOM from Elzero:
    - [BOM Tutorial](https://www.youtube.com/watch?v=cMW4963o6Qo&list=PLDoPjvoNmBAy9nFRJgVYgEID8xE2a6q6V)
    - [DOM Tutorial](https://www.youtube.com/watch?v=LlQC9sU0coM&list=PLDoPjvoNmBAxx97QDMOCpzxbu1ZHJ4i7i)
+  
+## Dev Tools
+
+- [Debugger](https://developer.chrome.com/docs/devtools/javascript/breakpoints) 
 
 ## Important Concepts to Know
 
