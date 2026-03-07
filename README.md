@@ -32,6 +32,12 @@
 - [XSS Pwnfunction](https://xss.pwnfunction.com/challenges/)
 - [XSS intigriti Monthly Challenges](https://bugology.intigriti.io/intigriti-monthly-challenges)
 
+## Security Research :
+- [ExFiltration de données portable XSS pour PDF](https://youtu.be/Sz-zEDNTe8U?si=ODkqsqwvZxG3fv7S) by @Gareth-Heyes
+- [DOM Based Angular Sandbox Escapes by Gareth Heyes](https://youtu.be/jlSI5aVTEIg?si=FC3FeuXu6YDf5tbB) by @Gareth-Heyes
+- [Exfiltration CSS aveugle : vol de données utilisateur à partir de pages Web inconnues via CSS](https://youtu.be/3WjDnnmLlKo?si=W008wPMu2YqKnF3T) by @Gareth Heyes
+- [Digging for XSS Gold: Unearthing Browser Quirks with Shazzer](https://youtu.be/mLzxwmNoAI4?si=WlGMLe48KjsNzuPB) by @Gareth Heyes 
+
 ## Series
 1. [Fady Othman | How to analysis and deal with browser and DEV Tools](https://www.youtube.com/watch?v=nLMs1aXdkgk&list=PLcCG2wDOBXAWGn-_ZAWUfvwu_RkBtNxPt)
 2. [JavaScript Analysis Series on YouTube](https://www.youtube.com/playlist?list=PLlfDtLAF5S2RQtfb5eaxMxcfdOeswVVk2)
