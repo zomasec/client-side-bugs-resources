@@ -62,6 +62,7 @@
 - [Portswigger](https://portswigger.net/web-security/prototype-pollution)
 - [Imperva | Prototype Pollution](https://www.imperva.com/learn/application-security/prototype-pollution/)
 - [Prototype Pollution — A Deeper Inspection | Amit Nigam ](https://medium.com/@king.amit95/prototype-pollution-a-deeper-inspection-82a226796966)
+- [Hunting for Prototype Pollution gadgets in jQuery](https://joaxcar.com/blog/2024/01/26/hunting-for-prototype-pollution-gadgets-in-jquery-intigriti-0124-challenge/)
 
 ## Internals
 1. [IFrame and cross-domain security](https://pipwerks.com/2008/11/30/iframes-and-cross-domain-security-part-2/)
