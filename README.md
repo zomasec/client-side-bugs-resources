@@ -22,6 +22,7 @@
 - [Microsoft Teams Stored XSS CSP Bypass](https://medium.com/@numanturle/microsoft-teams-stored-xss-bypass-csp-8b4a7f5fccbf)
 - [How to Spot and Exploit PostMessage Vulnerabilities](https://dev.to/karanbamal/how-to-spot-and-exploit-postmessage-vulnerablities-36cd)
 - [Sandbox iframe XSS challenge solution](https://joaxcar.com/blog/2024/05/16/sandbox-iframe-xss-challenge-solution/)
+  
 ## Challenges
 
 - [Public Firing Range (XSS Challenges)](https://public-firing-range.appspot.com/)
@@ -31,6 +32,12 @@
 - [XSS Challenges alert(1) to win](https://alf.nu/alert1?world=alert&level=alert0)
 - [XSS Pwnfunction](https://xss.pwnfunction.com/challenges/)
 - [XSS intigriti Monthly Challenges](https://bugology.intigriti.io/intigriti-monthly-challenges)
+
+## Github Repo
+- [Shadow DOM & Security ](https://github.com/masatokinugawa/ShadowBreakers)
+- [Browser's XSS Filter Bypass Cheat Sheet](https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet)
+- [xss filter bypass](https://github.com/Edr4/XSS-Bypass-Filters)
+- [Content-Type that can be used for XSS](https://github.com/BlackFan/content-type-research/blob/master/XSS.md)
 
 ## Series
 1. [Fady Othman | How to analysis and deal with browser and DEV Tools](https://www.youtube.com/watch?v=nLMs1aXdkgk&list=PLcCG2wDOBXAWGn-_ZAWUfvwu_RkBtNxPt)
@@ -48,7 +55,7 @@
 - [Understanding the PostMessage Vulnerabilities and its implications](https://payatu.com/blog/postmessage-vulnerabilities/)
 - [Dompurify Bypass v2.0.17](https://research.securitum.com/mutation-xss-via-mathml-mutation-dompurify-2-0-17-bypass/)
 - [Dompurify Bypass again](https://portswigger.net/research/bypassing-dompurify-again-with-mutation-xss)
-
+  
 ## CSP Resources
 
 - [Mozilla CSP Guide](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
