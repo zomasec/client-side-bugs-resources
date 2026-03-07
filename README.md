@@ -21,7 +21,7 @@
 - [CSP Bypass on PortSwigger.net Using Google Script Resources](https://joaxcar.com/blog/2024/02/19/csp-bypass-on-portswigger-net-using-google-script-resources/)
 - [Microsoft Teams Stored XSS CSP Bypass](https://medium.com/@numanturle/microsoft-teams-stored-xss-bypass-csp-8b4a7f5fccbf)
 - [How to Spot and Exploit PostMessage Vulnerabilities](https://dev.to/karanbamal/how-to-spot-and-exploit-postmessage-vulnerablities-36cd)
-
+- [Sandbox iframe XSS challenge solution](https://joaxcar.com/blog/2024/05/16/sandbox-iframe-xss-challenge-solution/)
 ## Challenges
 
 - [Public Firing Range (XSS Challenges)](https://public-firing-range.appspot.com/)
